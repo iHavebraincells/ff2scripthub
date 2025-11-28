@@ -7,12 +7,12 @@ local HttpService = game:GetService("HttpService")
 local player = Players.LocalPlayer
 
 -- Key system config
-local validKeys = {["2xBAT"] = true} -- add your keys
+local validKeys = {["vghxtrBAT473vghxtr"] = true} -- add your keys
 local MAX_ATTEMPTS = 100000000
 local DISCORD_INVITE = "https://discord.gg/qwVdSbPJeR"
 local attemptsLeft = MAX_ATTEMPTS
 local SCRIPT_LOADER = [[
- loadstring(game:HttpGet("https://pastebin.com/raw/GDjjdp8e"))()
+ loadstring(game:HttpGet("https://pastebin.com/raw/UyUYiZgP"))()
 ]]
 
 -- UI Creation
